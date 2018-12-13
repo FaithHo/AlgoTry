@@ -58,8 +58,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlgoQList\A189.cs" />
     <Compile Include="AlgoQList\A26.cs" />
     <Compile Include="AlgoQList\A27.cs" />
+    <Compile Include="AlgoQList\A80.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

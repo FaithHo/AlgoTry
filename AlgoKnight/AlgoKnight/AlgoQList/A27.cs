@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AlgoKnight.AlgoQList
+namespace AlgoQ.AlgoQList
 {
     class A27
     {
@@ -122,5 +122,7 @@ namespace AlgoKnight.AlgoQList
             }
             return index;
         }
+
+      
     }
 }
